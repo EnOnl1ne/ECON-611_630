@@ -1,1 +1,0 @@
-Always write clean comments, and note any parameters being specified within functions/methods so that it is clear what each value represents.
