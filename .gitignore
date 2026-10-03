@@ -216,5 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-SGIP_HFTD/Weekly_Statewide_Report_*.xlsx
+SGIP_HFTD/
 .DS_Store
